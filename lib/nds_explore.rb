@@ -19,7 +19,4 @@ while index < movies.length do
 index +=1 
 end
 
-
-
-
 end
